@@ -1,5 +1,5 @@
 {
-  "name": "undici",
+  "name": "custom-undici",
   "version": "6.2.1",
   "description": "An HTTP/1.1 client, written from scratch for Node.js",
   "homepage": "https://undici.nodejs.org",
